@@ -8,7 +8,10 @@ import { Link } from 'react-router-dom';
 const Project = () => {
     return (
         <div>
-            <h3 className="text-3xl mb-7 font-extrabold uppercase underline flex mx-auto ml-20"> <span className='mr-4'>Latest Projects</span> <span><Link to='/myproject'><FaShare/></Link></span></h3>
+          <Link to='/myproject'>
+
+            <h3 className="text-3xl mb-7 font-extrabold uppercase underline flex mx-auto ml-20"> <span className='mr-4'>Latest Projects</span> <span><FaShare/></span></h3>
+          </Link>
             <Fade>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-3">
