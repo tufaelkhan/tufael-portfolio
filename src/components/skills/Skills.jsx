@@ -8,7 +8,7 @@ const Skills = () => {
               <h3 className="text-3xl mb-7 font-extrabold uppercase underline  ml-20 mt-10"><span className='mr-4'>Skills</span> <span></span></h3>
            <div className="lg:flex mx-auto ml-16">
             <Zoom>
-            <div className="bg-slate-700 text-white mr-10 pl-10 pr-10 pb-10 rounded-3xl border-4 border-blue-600 ">
+            <div className="bg-slate-700 text-white mr-10 pl-10 pr-10 pb-10 rounded-3xl border-4 border-blue-600 mb-3">
               <h3 className="text-2xl mb-7 font-semibold uppercase ml-20 mt-10"><span className='mr-4'>Frontend</span> <span></span></h3>
                 <p>
                     <span className="text-2xl font-semibold mr-5">HTML</span>
