@@ -9,7 +9,7 @@ const Footer = () => {
     </div>
     <p className='uppercase pl-14 text-white text-1xl'>Creating Cutting-Edge Web <br /> Solutions with MERN Stack Prowess</p>
   </div> 
-  <div className="text-2xl">
+  <div className="text-2xl pl-5">
     <span className="footer-title text-white">contact</span> 
     <div className="grid grid-flow-col gap-4 text-white">
         <a href="https://www.facebook.com/" target="blank">FaceBook</a> ||

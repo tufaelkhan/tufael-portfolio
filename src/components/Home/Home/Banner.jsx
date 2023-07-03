@@ -10,7 +10,7 @@ const Banner = () => {
         <div className="hero mb-10">
         <div className="hero-content flex-col lg:flex-row-reverse">
             <Zoom>
-          <img src={myImage} className="max-w-sm rounded-lg shadow-2xl" />
+          <img src={myImage} className="max-w-sm rounded-lg shadow-2xl pr-10" />
             </Zoom>
           <div>
             <Fade>
