@@ -1,7 +1,7 @@
 import {Zoom, Fade } from "react-awesome-reveal";
 const Skills = () => {
     return (
-        <div>
+        <div className="ml-3 mr-3">
             <h2 className="text-3xl text-center mt-10 mb-7 font-extrabold underline">Skills</h2>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-y-4">
                 <Fade>

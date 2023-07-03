@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 const Project = () => {
     return (
-        <div>
+        <div className='ml-4'>
           <Link to='/myproject'>
 
             <h3 className="text-3xl mb-7 font-extrabold uppercase underline flex mx-auto ml-20"> <span className='mr-4'>Latest Projects</span> <span><FaShare/></span></h3>
