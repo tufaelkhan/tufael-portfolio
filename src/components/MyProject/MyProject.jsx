@@ -29,7 +29,7 @@ const MyProject = () => {
       <a href="https://github.com/tufaelkhan/language-school-server" className='btn btn-outline btn-secondary mr-5' target='blank'>Server site</a>
       </div>
     </div>
-    <div className="card flex-shrink-0 w-[55%] border-4 border-black">
+    <div className="card flex-shrink-0 md:w-[55%] border-4 border-black">
    <div className=' md:flex lg:flex'>
      <img src={lan1} style={{height: 150}} alt="" />
 <img src={lan2} style={{height: 150}} alt="" />

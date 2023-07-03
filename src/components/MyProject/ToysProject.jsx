@@ -9,7 +9,7 @@ const ToysProject = () => {
                         {/* toys school */}
                         <div className="hero w-full">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <div className="text-center lg:text-left w-1/2 font-serif md:p-14">
+    <div className="text-center sm:text-left lg:text-left w-1/2 font-serif md:p-14">
       <h1 className="text-3xl font-bold mb-3">Happy Education!</h1>
       <ul>
         <li>Any one can see All Toys</li>
@@ -24,7 +24,7 @@ const ToysProject = () => {
       <a href="https://github.com/tufaelkhan/toys-sealer-server" className='btn btn-outline btn-secondary mr-5' target='blank'>Server site</a>
       </div>
     </div>
-    <div className="card flex-shrink-0 w-[53%] border-4 border-black">
+    <div className="card flex-shrink-0 md:w-[53%] border-4 border-black">
      <div className=' md:flex lg:flex'>
      <img src={toy3} style={{height: 150}} alt="" />
 <img src={toy4} style={{height: 150}} alt="" />
