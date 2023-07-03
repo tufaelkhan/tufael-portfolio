@@ -22,7 +22,7 @@ const Contact = () => {
             <div className='grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2'>
 <Fade>
 
-            <div className='text-end pr-20 p-7'>
+            <div className='text-end pr-20 pr-7'>
                 <h3 className='flex justify-end items-center text-2xl font-serif mt-5'><span className='mr-3'><FaMailBulk/></span> <span>tufaelkhan247@gmail.com</span></h3>
                 <h3 className='flex justify-end items-center text-2xl font-sans mt-5'><span className='mr-3'><FaPhoneAlt/></span> <span>(+880) 1880107803</span></h3>
                 <h3 className='flex justify-end items-center text-2xl font-serif mt-5'><span className='mr-3'><FaLinkedin/></span> <span><a href="https://www.linkedin.com/in/tufael-khan-705194280/" target='blank'>LinkedIn</a></span></h3>
