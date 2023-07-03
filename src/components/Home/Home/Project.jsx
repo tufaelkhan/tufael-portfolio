@@ -20,7 +20,7 @@ const Project = () => {
   <figure><img src={lan1} alt="Shoes" /></figure>
 </Zoom>
   <div className="card-body">
-    <h2 className="card-title">Language School</h2>
+    <h2 className="card-title text-black font-serif">Language School!</h2>
     <div className="card-actions justify-end">
 
       <button className="btn btn-primary flex-col"><a href="https://language-school-e9e0d.web.app/" target='blank'>preview now</a></button>
@@ -33,7 +33,7 @@ const Project = () => {
   <figure><img src={toy1} alt="Shoes" /></figure>
             </Zoom>
   <div className="card-body">
-    <h2 className="card-title">Happy Education</h2>
+    <h2 className="card-title text-black font-serif">Happy Education!</h2>
     <div className="card-actions justify-end">
       <button className="btn btn-primary"><a href="https://happy-education.web.app/" target='blank'>preview now</a></button>
     </div>
@@ -45,7 +45,7 @@ const Project = () => {
   <figure><img src={recipe1} alt="Shoes" /></figure>
             </Zoom>
   <div className="card-body">
-    <h2 className="card-title">Bangladeshi Recipe</h2>
+    <h2 className="card-title text-black font-serif">Bangladeshi Recipe!</h2>
     <div className="card-actions justify-end">
       <button className="btn btn-primary"><a href="https://bangladeshi-special-recipe.web.app/" target='blank'>preview now</a></button>
     </div>
