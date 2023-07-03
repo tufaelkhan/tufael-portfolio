@@ -4,12 +4,12 @@ const Footer = () => {
         <footer className='bg-teal-900 text-white pb-5'>
         <div className="footer pt-5 mt-12 pb-5 text-black">
   <div className='justify-center'>
-    <div className='flex items-center pl-6'>
+    <div className='flex items-center pl-2'>
     <p className='uppercase text-2xl text-white font-bold'>tufael khan portfolio</p>
     </div>
-    <p className='uppercase pl-6 text-white text-1xl'>Creating Cutting-Edge Web <br /> Solutions with MERN Stack Prowess</p>
+    <p className='uppercase pl-2 text-white text-1xl'>Creating Cutting-Edge Web <br /> Solutions with MERN Stack Prowess</p>
   </div> 
-  <div className="text-2xl pl-5">
+  <div className="text-2xl pl-2">
     <span className="footer-title text-white">contact</span> 
     <div className="grid grid-flow-col gap-4 text-white">
         <a href="https://www.facebook.com/" target="blank">FaceBook</a> ||
